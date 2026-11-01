@@ -1,0 +1,1 @@
+Notebook for the analysis of the submission "Friction Interventions Effectively Reduce Social Media Use Independent of Users’ Susceptibility", which can be opened via the browser or in R. 
